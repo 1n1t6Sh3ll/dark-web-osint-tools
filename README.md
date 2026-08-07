@@ -20,7 +20,7 @@
 
 * IACA Dark Web Investigation Support  - [https://iaca-darkweb-tools.com/](https://iaca-darkweb-tools.com/)
 
-* The Hidden Wiki [https://4thehidden.wiki/](https://4thehidden.wiki/)
+* The Hidden Wiki - [https://4thehidden.wiki/](https://4thehidden.wiki/)
 
 * Darkfox - [https://github.com/aryanguenthner/darkfox](https://github.com/aryanguenthner/darkfox)
 
