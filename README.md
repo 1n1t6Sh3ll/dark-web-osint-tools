@@ -20,14 +20,16 @@
 
 * IACA Dark Web Investigation Support  - [https://iaca-darkweb-tools.com/](https://iaca-darkweb-tools.com/)
 
+* The Hidden Wiki [https://4thehidden.wiki/](https://4thehidden.wiki/)
+
+* Darkfox - [https://github.com/aryanguenthner/darkfox](https://github.com/aryanguenthner/darkfox)
+
 
 ## 🧅 Tools to get onion links
 
 * Tor66 - [http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh)
 
 * TorNode - [http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion](http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion)
-
-* Darkweblink - [darkweblink.com](https://darkweblink.com), [http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion](http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion)
 
 
 ## 🔬 Tools to scan onion links
@@ -57,4 +59,6 @@
 
 ## 🧿 Miscellaneous
 
+* Robin - [https://github.com/apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
+  
 * DeepDarkCTI - [https://github.com/fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
